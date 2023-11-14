@@ -1,4 +1,4 @@
-# Bollinger Bands trading strategy 2.1.0 - Copyright(C) 2023 Centrabit.com ( Author: smartalina0915@gmail.com )
+# Bollinger Bands trading strategy 2.1.0 - Copyright(C) 2023 Centrabit.com (Author: Landry Some )
 
 # Script Name
 script BollingerBands;

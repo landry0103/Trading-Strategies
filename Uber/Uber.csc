@@ -1,4 +1,4 @@
-# UBER test - Copyright(C) 2023 Centrabit.com ( Author: smartalina0915@gmail.com )
+# UBER test - Copyright(C) 2023 Centrabit.com (Author: Landry Some )
 
 # Script Name
 script Uber;

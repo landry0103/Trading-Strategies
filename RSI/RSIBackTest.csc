@@ -1,4 +1,4 @@
-# RSI (Relatvie Strengh Index) trading strategy backtest - Copyright(C) 2023 Centrabit.com ( Author: smartalina0915@gmail.com )
+# RSI (Relatvie Strengh Index) trading strategy backtest - Copyright(C) 2023 Centrabit.com (Author: Landry Some )
 
 # Script Name
 script RSIBackTest;

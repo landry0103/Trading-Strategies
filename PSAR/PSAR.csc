@@ -1,4 +1,4 @@
-# PSAR (Parabolic Stop And Reverse) trading strategy  - Copyright(C) 2023 Centrabit.com ( Author: smartalina0915@gmail.com )
+# PSAR (Parabolic Stop And Reverse) trading strategy  - Copyright(C) 2023 Centrabit.com (Author: Landry Some )
 
 # Script Name
 script PSAR;

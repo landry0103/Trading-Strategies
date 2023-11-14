@@ -1,5 +1,5 @@
 #
-# library.csh version 2.1.0 - Copyright(C) 2022 Centrabit.com ( Author: smartalina0915@gmail.com)
+# library.csh version 2.1.0 - Copyright(C) 2022 Centrabit.com (Author: Landry Some)
 # 
 #  - SMA(Simple Moving Average)          01/20/2023
 #  - STDDEV(Standard Deviation)          01/20/2023
